@@ -12,4 +12,3 @@ which has the objective of consuming food until it exceeds the size of 40 tiles.
 
 ![alt text](https://github.com/sergiogutierrez2/CS151-Object-OrientedDesign-FinalProject/blob/master/ProjectStarterCode/view/Snake%204.png)
 
-![alt text](https://github.com/sergiogutierrez2/CS151-Object-OrientedDesign-FinalProject/blob/master/ProjectStarterCode/view/Snake%207.png)
