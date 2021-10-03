@@ -1,5 +1,5 @@
 # CS151-Object-OrientedDesign-FinalProject
-Snake Game for CS151 at San Jose State University:     
+Snake Game for CS151 at San Jose State University, by Sergio Gutierrez, Kenneth Tran and Jesus Emmanuel Fuentes Nava.
 The program Builds a game, with a Board where the user controls a snake (up, down, left, right),
 which has the objective of consuming food until it exceeds the size of 40 tiles.
  
